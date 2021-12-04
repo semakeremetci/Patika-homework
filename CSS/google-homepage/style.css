@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: arial,sans-serif;
+}
+body {
+    height: 100%;
+}
+.link {
+    text-decoration: none;
+    color: black;
+    opacity: 0.75;
+    font-size: 13px;
+    padding-left: 15px;
+}
+.link:hover {
+    text-decoration: underline;
+}
+.bar {
+    padding-top: 21px;
+    margin: 0 30px 0 10px;
+    display: inline-block;
+}
+.kare {
+    position: relative;
+    top: 3px;
+    left: 2px;
+    opacity: 0.6;
+}
+.kare:hover {
+    opacity: 100%;
+}
+.kutu {
+    color: white;
+    background-color: #4285f4;
+    border: 1px solid #4285f4;
+    text-decoration: none;
+    font-size: 13px;
+    padding: 6px 12px;
+    margin-left: 20px;
+    border-radius: 2px;
+    font-weight: bold;
+    cursor:default;
+}
+.logo {
+    position: relative;
+    display: inline-block;
+    left: 527px;
+    top: 117px;
+}
+.search-icon {
+    width: 20px;
+    display: inline-block;
+    opacity: 0.4;
+    padding-right: 13px;
+    position: relative;
+    left: 14px;
+    top: 7px;
+}
+.search-area {
+    border: 1px solid #dfe1e5;
+    width: 580px;
+    height: 45px;
+    position: relative;
+    left: 370px;
+    top: 140px;
+    border-radius: 23px;
+    
+    
+}
+.text {
+    width: 487px;
+    height: 37px;
+    border-color: transparent;
+    outline: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.search-area:hover {
+    box-shadow: 1px 1px 6px rgb(209, 201, 201);
+}
+.btn {
+    text-decoration: none;
+    color: #5f6368;
+    border: 1px solid #f2f2f2;
+    font-size: 14px;
+    background-color:#f2f2f2 ;
+    border-radius: 5px;
+    height: 35px;
+    padding: 0 16px;
+    cursor: pointer;
+}
+.button {
+    text-decoration: none;
+    display: inline-block;
+    color: #5f6368;
+    border: 1px solid #f2f2f2;
+    font-size: 14px;
+    background-color:#f2f2f2 ;
+    border-radius: 5px;
+    height: 35px;
+
+}
+.btn:hover{
+    color: black;
+}
+.button:hover {
+    border-color: #c7c2c2;
+}
+.left {
+    display: inline-block;
+    margin-left: 4px;
+}
+.right {
+    display: inline-block;
+    margin-right: 5px;
+}
+footer {
+    background-color:  #f2f2f2;
+    padding: 10px;
+    position: relative;
+    top: 399px;
+    border: 0.5px solid #ddd8d8 ;
+}
+.lnk {
+    text-decoration: none;
+    color: #686b6e;
+    font-size: 14px;
+    margin: 12px;
+}
+
