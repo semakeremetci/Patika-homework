@@ -1,0 +1,42 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color:  #FFC017;
+}
+
+.border-bottom-1 {
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+.border-bottom-2 {
+    border-bottom: 1px solid rgba(41, 41, 41, 0.245);
+}
+
+.svg {
+    width: 35px;
+    margin-bottom: 4px;
+}
+.text-light-grey {
+    color: rgba(128, 128, 128, 0.551);
+}
+
+.text-grey {
+    color:rgba(41, 41, 41, 0.644) ;
+}
+
+.gold {
+    color:gold;
+}
+
+.mb > li {
+    margin-bottom: 9px;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.m > li {
+    margin: 5px;
+}
